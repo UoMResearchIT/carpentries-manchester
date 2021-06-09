@@ -1,3 +1,12 @@
+---
+layout: default
+title:  "Summer of Carpentries @ Manchester"
+date:   2021-05-25 09:30:00 +0000
+categories: update
+type: workshop_announcement
+---
+# Summer of Carpentries @ Manchester, June - September 2021
+
 Colleagues from Carpentries@Manchester (including Methods@Manchester, the University of Manchester Library, Research IT and Manchester branch of the 
 Software Sustainability Institute) are 
 jointly bringing a series of Carpentry workshops over summer to postgraduate students, researchers and staff at Manchester who 
