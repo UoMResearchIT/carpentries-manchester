@@ -23,4 +23,4 @@ The workshops are open to all University of Manchester postgraduate students and
 - [Data Carpentry (R) workshop, 14-17 September 2021](https://uk-carpentries.github.io/2021-07-13-manchester-online/) - teaching the best practice in data organisation, tools for data cleaning, 
 and fundamental data skills using the R programming language needed to conduct research or work with data effectively and efficiently. Register for this workshop using the special code ‘2021-09-14-manchester-online’ and your Manchester email address.
 
-Please get in touch with Aleks Nenadic, Nilani Ganeshwaran or Phil Reed with any questions.
+Please get in touch with [Aleks Nenadic](mailto:a.nenadic@manchester.ac.uk), [Nilani Ganeshwaran](mailto:Nilani.Ganeshwaran@manchester.ac.uk) or [Phil Reed](mailto:Phil.Reed@manchester.ac.uk) with any questions.
