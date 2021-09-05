@@ -5,7 +5,7 @@ date:   2021-09-14 09:30:00 +0000
 categories: jekyll update
 type: workshop_announcement
 ---
-# Data Carpentry Workshop (R) for Social Scientists, 14-17 Septemner 2021
+# Data Carpentry Workshop (R) for Social Scientists, 14-17 September 2021
 
 ## Information about upcoming workshops
 Colleagues from [Methods@Manchester](https://www.methods.manchester.ac.uk/), 
