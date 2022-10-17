@@ -8,7 +8,9 @@ type: workshop_announcement
 # Library Carpentry Workshop for N8 CIR, 9 November 2022
 
 The Carpentries are hosting a Library Carpentry workshop for beginners of any
-[N8 university](https://www.n8research.org.uk/). [The Carpentries](https://carpentries.org/) 
+[N8 university]([https://www.n8research.org.uk/](https://n8cir.org.uk/events/library-carpentry-workshop/)): 
+Durham, Lancaster, Leeds, Liverpool, Manchester, Newcastle, Sheffield, York. 
+[The Carpentries](https://carpentries.org/) 
 are an international community that teaches computational, coding, data organisation, analysis, 
 and visualisation skills to people with minimal or no prior programming knowledge.
 
@@ -37,7 +39,7 @@ with spreadsheet data formats. If you work with large data sets, come along to l
 find out how to save yourself time and reduce errors when working with data. All are welcome and 
 no prior knowledge is necessary.
 
-You can register for this workshop on the EventBrite page.
+You can [register for this workshop on the EventBrite page](https://www.eventbrite.co.uk/e/library-carpentry-workshop-tickets-431807105677).
 
 Information on 
 [travel to Lancaster University and parking can be found here](https://www.lancaster.ac.uk/about-us/maps-and-travel/).
