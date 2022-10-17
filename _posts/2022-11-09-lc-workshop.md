@@ -8,7 +8,7 @@ type: workshop_announcement
 # Library Carpentry Workshop for N8 CIR, 9 November 2022
 
 The Carpentries are hosting a Library Carpentry workshop for beginners of any
-[N8 university](https://www.n8research.org.uk/](https://n8cir.org.uk/events/library-carpentry-workshop/): 
+[N8 university](https://n8cir.org.uk/events/library-carpentry-workshop/): 
 Durham, Lancaster, Leeds, Liverpool, Manchester, Newcastle, Sheffield, York. 
 [The Carpentries](https://carpentries.org/) 
 are an international community that teaches computational, coding, data organisation, analysis, 
